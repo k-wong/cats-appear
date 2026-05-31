@@ -9,6 +9,7 @@ Cats Appear! is a Chrome extension that shows a random cat gif on the active tab
 - Displays a random cat gif every 2-10 minutes.
 - Summon a cat gif immediately by clicking the extension icon.
 - Does not collect, transmit, or store user data.
+- Extensible - add your own gifs into cats/, and update background.js to include them.
 
 ## Local Installation
 
