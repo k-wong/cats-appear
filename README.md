@@ -1,4 +1,4 @@
-# Cats Appear!
+# Cats Appear! ≽^•⩊•^≼
 
 ![Demo](https://github.com/k-wong/cats-appear/blob/main/screenshot-1280x800.png)
 
