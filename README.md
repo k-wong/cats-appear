@@ -1,6 +1,6 @@
 # Cats Appear! ≽^•⩊•^≼
 
-![Demo](https://github.com/k-wong/cats-appear/blob/main/screenshot-1280x800.png)
+![Demo](https://github.com/k-wong/cats-appear/blob/main/screenshot.png)
 
 Cats Appear! is a Chrome extension that shows a random cat gif on the active tab at random intervals.
 
